@@ -5,5 +5,6 @@ WriteMakefile(
     'PREREQ_PM' => {
 	'Test::More' => 0.32,
 	'YAML' => 0.35,
+	'Apache::Session::Flex' => 1.01,
     },
 );
